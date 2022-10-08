@@ -1,0 +1,11 @@
+mysql> Show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| test               |
+| w                  |
++--------------------+
+5 rows in set (0.03 sec)
